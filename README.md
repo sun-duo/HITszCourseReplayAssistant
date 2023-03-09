@@ -20,13 +20,13 @@
 
      >   以 Edge 浏览器为例：
      >
-     >   <img src="README.assets/image-20230309175817135.png" alt="image-20230309175817135" style="zoom:40%;" /> 
+     >   <img src="images/image-20230309175817135.png" alt="image-20230309175817135" style="zoom:40%;" /> 
 
 3.   将本仓库文件夹直接加载到**浏览器插件**中
 
      >   以 Edge 浏览器为例：
      >
-     >   <img src="README.assets/image-20230309175852990.png" alt="image-20230309175852990" style="zoom:40%;" /> 
+     >   <img src="images/image-20230309175852990.png" alt="image-20230309175852990" style="zoom:40%;" /> 
 
 4.   打开插件，允许其运行
 
