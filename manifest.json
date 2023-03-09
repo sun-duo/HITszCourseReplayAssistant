@@ -1,0 +1,20 @@
+{
+	"manifest_version": 3,
+	"name": "HITSZ Course Replay Assistant",
+	"version": "2.0",
+	"icons": {
+		"48": "images/settings.png"
+	},
+	"action": {
+		"default_icon": {
+			"48": "images/settings.png"
+		}
+	},
+	"permissions": ["scripting"],
+	"content_scripts":[{
+      "matches":["http://219.223.238.14:88/ve/back/rp/common/rpIndex.shtml?method=studyCourseDeatil*"],
+      "js":[
+         "content-script.js"
+      ]
+   }]
+}
